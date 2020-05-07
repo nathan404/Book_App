@@ -1,0 +1,17 @@
+body {
+  font-family: Palatino;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+li {
+  background-color: lightblue;
+  margin: 0.5rem;
+  padding: 1rem;
+  border: 1px solid darkblue;
+  border-radius: 0.5rem;
+}
